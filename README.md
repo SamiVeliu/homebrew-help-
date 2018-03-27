@@ -1,0 +1,2 @@
+# homebrew-help-
+When I downloaded homebrew and launched the file to get a new custom theme I am able to install and dump the file but when ever I attempt to exit “Chh or whatever it’s called” it simply goes to a red screen forever. I have tried the button combinations to get back to the launcher but it will not work. I then have to re power my ds and for somereason my new theme is not there. PLEASE HELP
